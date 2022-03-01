@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a citizen of Glasgow to his friend at Edinburgh. Containing some modest animadversions on a late printed letter, concerning the affairs of that city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01519</idno>
+            <idno type="STC">Wing B109</idno>
+            <idno type="STC">ESTC R217701</idno>
+            <idno type="EEBO-CITATION">52211682</idno>
+            <idno type="OCLC">ocm 52211682</idno>
+            <idno type="VID">175414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175414)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2732:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a citizen of Glasgow to his friend at Edinburgh. Containing some modest animadversions on a late printed letter, concerning the affairs of that city.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Glasgow :</pubPlace>
+                  <date>Printed in the year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.B.</note>
+                  <note>Written in opposition to John Anderson of Dovehill, the provost of Glasgow, this work is a reply to a letter which, the author is persuaded, "no body but Dovehill could be at the pains to write."--cf. p. 9.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anderson, John, 1636-1710.</term>
+               <term>Municipal government --  Scotland --  Glasgow --  17th century --  Early works to 1800.</term>
+               <term>Glasgow (Scotland) --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175414:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A Citizen of Glaſgow To his Friend at <hi>Edinburgh.</hi>
+            </p>
+            <p>Containing ſome modeſt Animadverſions on a late Printed Letter, concerning the Affairs of that City.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 10.9.</hi>
+               </bibl>
+               <p>He that walketh uprightly, walketh ſurely: But he that perverteth his ways, ſhall be known.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PROV. 16.18.</hi>
+               </bibl>
+               <p>Pride goeth before deſtruction: And an haughty Spirit before a fall.</p>
+            </q>
+            <p>Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175414:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:175414:2"/>
+            <head>A Letter from a Citizen of <hi>Glaſgow</hi> to his Friend at <hi>Edinburgh,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I was not a little ſurpriſed upon the Receipt of yours, of the 11th. inſtant, containing the Printed Copy of a Letter concerning the Management of the Affairs of this City, by which the Author, with no ſmall ſtock of Aſſurance, endeavours to vindicate the great Abuſes which the Inhabitants have ſuffered in the Adminiſtration of their Affairs ſince the Year 1689.</p>
+            <p>I am perſwaded that neither the Magiſtrates, nor any other Well-wi<g ref="char:EOLhyphen"/>ſher to the Peace and Quiet of this Town, could be Acceſſory to the publiſhing of a Letter that, I am affraid, muſt unavoidably move ſome Perſons, who otherwiſe would ly Dormient, to make a ſtricter Inquiry into its Veracity than perhaps, the Author would, upon more Mature Con<g ref="char:EOLhyphen"/>ſideration, be willing to ſubject it: For as it is truly Lamentable, That there ſhould be any diſcord, or even ſo much as the Seeds thereof, be<g ref="char:EOLhyphen"/>tween our Magiſtrates and the Inhabitants, ſo it cannot but be regreted, that any ſhould be ſo Malicious as to expoſe the Weakneſs of either the one or the other, by publiſhing the ſame in Print: And as there is no<g ref="char:EOLhyphen"/>thing more certain than, <hi>That a City divided against it ſelf cannot ſtand,</hi> ſo the firſt Aggreſſor, or Chief ſower of Sedition, ſhould remember the Con<g ref="char:EOLhyphen"/>demnation pronunced by our Saviour, <hi>Wo be to him by whom the Offence cometh.</hi> And I am ſure you will allow it to be an Aggravation of the Guilt, the publiſhing of it ſo unſeaſonably, to the diſquieting of the Minds of the People at this time, the <hi>Sacrament</hi> of the <hi>Lords Supper</hi> being to be Adminiſtred here upon the next enſuing <hi>Lords day.</hi> And were I not perſwaded, that there muſt be many more Copies of a printed Paper, than that one which you ſent me, I would commit it to the Flames.</p>
+            <p>But now, ſince you tell me that that Letter has raiſed in ſeveral others as well as your ſelf, a deſire of being inform'd by ſome impartial hand, concerning the true Condition of our Town's Affairs, and that you ſeem to expect ſome account thereof from me. I ſhall inform you of what oc<g ref="char:EOLhyphen"/>currs to me at preſent, with relation to the Contents of that Letter.</p>
+            <p>As to what is Suggeſted in the ſecond Paragraph of it, I muſt ſay, That tho' I was much converſant with the Generality of the People of <hi>Glaſgow</hi>
+               <pb n="4" facs="tcp:175414:3"/>
+yet I never heard any Reflection made againſt the Magiſtrates and Coun<g ref="char:EOLhyphen"/>cil for Miſ-management of the Town's Common-Good, further than that they were always determined by <hi>John Anderſon</hi> of <hi>Dove-hill</hi>'s Coun<g ref="char:EOLhyphen"/>ſel and Advice, alledging, That inſtead of a free Election (which the Letter-writter ſays the Town has) they had allowed <hi>Dove-hill</hi> the No<g ref="char:EOLhyphen"/>mination of the Provoſt, Baillies, and Town-Council, ever ſince the late happy Revolution; whereby the Town's Gift (tho' it coſt them 9000 Merks, and gives Warrant for as free an Election as any Burgh of this Nation, and particularly as that of the Burgh of <hi>Edinburgh</hi>) yet was never further extended or made uſe of by them, than to put <hi>Dovehill</hi> in place of the Arch-Biſhop; theſe Perſons being always preferr'd whom he named to the place: And tho' <hi>Dovehill</hi> could not always be Provoſt himſelf, becauſe of the ſett of the Burgh, yet whoever were choſen were but Nominal Provoſts, and he always exerced: And the Expenſe which the Burgh was put to in procuring the above-mention'd Gift of a free Election of their Provoſt and Magiſtrates, was ſo far from Relieving them of the Inconveniencies which they lay under, that it has been made uſe of as a handle by <hi>Dovehill</hi> to continue, and perpetuate the Magiſtracy in his own hands, with ſuch others as entirely depend upon him, who ſucceded one another by turns and private Conceit, everſince the obtain<g ref="char:EOLhyphen"/>ing of the ſaid Gift; and that by ſuch Methods and Practiſes as you will fully underſtand by and by.</p>
+            <p>And as an evidence thereof, it is very remakable, that ſince the year 1689, there have few or none been able to come upon the Government of the Town, but ſuch who have been ſhrewdly preſum'd to be devoted to <hi>Dovehill</hi> and his intereſt; and none has been alter'd or turn'd out of the Town-Council, except only thoſe who for the good and intereſt of the Burgh, as well as for the freedom of its Inhabitants, ſtated themſelves in oppoſition to <hi>Dovehill</hi>'s Deſigns, and endeavour'd to check his proceed<g ref="char:EOLhyphen"/>ings, when contrary to the true intereſt of the City.</p>
+            <p>For inſtance whereof <hi>John Sprewl</hi> who has very particularly ſignalized himſelf for the honour of his Countrey and good of this City; <hi>Thomas Peters</hi> who faithfully diſcharged his Truſt, and was extraordinary ſervice<g ref="char:EOLhyphen"/>able to the Town, and gain'd to it by his diligent management 16000 <hi>lib.</hi> clear profit on a Tack of the Exciſe; <hi>John Smith, John Stirling</hi> and <hi>John Armour,</hi> Perſons well beloved by the City, and moſt Affectionate to its intereſt, and very capable of executing the Truſt committed to their Charge, are the only Perſons turn'd off the Council theſe Ten Years paſt.</p>
+            <p>
+               <pb n="5" facs="tcp:175414:3"/>The Magiſtracy being thus continued in the Perſon of <hi>Dovehill,</hi> and his Dependants, notwithſtanding of the Gift by which the City expected to have been ſecured againſt ſuch Practices, and to have had the benefit of a free Election in the Terms of that Gift, namely <hi>to be as free as any City of the Kingdom and particularly that of</hi> Edinburgh, the Inhabitants (I muſt ſay) cannot but think themſelves aggrieved, that <hi>Dovehill</hi> ſhould keep the Tenor and intent of this Gift to be ſuch a Secret, as that to this hour it has not been either communicated to the two Houſes of Merchants and Trades, or ſo much as enter'd in our Records.</p>
+            <p>And that I may not ſeem to aſſert this without warrant, as not having ſeen the ſaid Gift; it appears by the Act of Parliament 14 of <hi>June</hi> 1690. Confirming the ſaid Gift, that the Election ſince that time has not been in the Terms thereof, nor that the freedom of Election thereby granted to the City and Community of <hi>Glaſgow,</hi> has ever been Communicated or made effectual to them: For by that Act of Parliament, it is Enacted, <hi>That the City of</hi> Glaſgow <hi>and Town Council thereof, ſhall have full Power and Priviledge to chooſe their own Magistrates, Provost, Baillies and other Officers within Burgh, as fully and freely in all reſpects as the City of</hi> Edinburgh <hi>or any other Royal Burgh within the Kingdom enjoys the ſame:</hi> And there being no particu<g ref="char:EOLhyphen"/>lar manner determin'd in the Gift or Act above-recited, for exercing the new freedom and Liberty thereby granted to the City of <hi>Glaſgow,</hi> it fol<g ref="char:EOLhyphen"/>lows neceſſarly, that before any Election could legally proceed after the ſaid Gift, the Town Council for the time, together with the Two Houſes, which are the full Repreſentation of the Burgh, ought to have been joyntly conſulted about the form of Electing the Provoſt, Bail<g ref="char:EOLhyphen"/>lies and other Officers, the Right of which is thereby convey'd to them; eſpecially to the two Houſes of Merchants and Trades, as being the Bo<g ref="char:EOLhyphen"/>dy of the Society and Community of <hi>Glaſgow:</hi> And beyond queſtion this muſt have been the deſign and Genuine intent of the Act of Parliament, as you may ſee by its referring to the Election of <hi>Edinburgh,</hi> in which the Trades have a very conſiderable intereſt. Nevertheleſs <hi>Dovehill,</hi> inſtead of conveening the Town-Council, Merchants and Trades Houſes, in order to eſtabliſh a fett for Electing the Magiſtrates in all time coming, purſuant to the Gift and Act of Parliament confirming the ſame, ſteps in into the Arch-Biſhops place, and Leits the Magiſtrates without taking notice of either the Merchants or Trades Houſes, and by that means has, contra<g ref="char:EOLhyphen"/>ry to the Town's Right and Freedom entail'd the Magiſtracy upon him<g ref="char:EOLhyphen"/>ſelf and thoſe of his Appointment ever ſince the Revolution, and has, du<g ref="char:EOLhyphen"/>ring
+<pb n="6" facs="tcp:175414:4"/>
+that time, enhanced the management of the Common Good with<g ref="char:EOLhyphen"/>out Control.</p>
+            <p>And the People of <hi>Glaſgow</hi> judging themſelves extreamly leaſed by this manner of Electing after the procurement of the Gift and Act of Parliament abovemention'd; and finding themſelves moſt rudely treat<g ref="char:EOLhyphen"/>ed by <hi>Dovehill,</hi> who frequently gave very inſolent Anſwers to their re<g ref="char:EOLhyphen"/>ſpectfull Petitions for Redreſs of their wrongs, were and (as I am infor<g ref="char:EOLhyphen"/>m'd) ſtill are reſolved to purſue a Declarator of the Town's Freedom of Election, before the Parliament.</p>
+            <p>And leſt you ſhould imagine this to be a groundleſs Charge, I ſhall ſupport it by the following undeniable inſtance of his inſolent Expreſ<g ref="char:EOLhyphen"/>ſions and inſulting carriage towards the Inhabitants in general:</p>
+            <p>When ſeveral of the moſt conſiderable of their Number, did, in Name of themſelves &amp; their fellow Citizens, ſignify to <hi>Dovehill,</hi> that they could not comply with the paying of Stent upon any account whatſoever, but for the King's Ceſs; and particularly, that they could not pay Stent for the Burgh-dues, unleſs they were decern'd and ordain'd by a Competent Judicatory; he Anſwer'd very huffily, That it were eaſier to hold a Lyon by the Jaws, than to quarrel what the Magiſtrates did in reference to the Stenting of the Inhabitants, and that he would Stent them for the ſaid Burgh-Dues, for the Defficiencies of former Stents, and for the Sub<g ref="char:EOLhyphen"/>ſcriptions of the Royal Burghs to the <hi>Indian</hi> and <hi>African</hi> Company; and bid any that quarel'd either of theſe to ſet it to their knee and right it if they could; all which can be made appear by famous Witneſſes in this Town. And tho all theſe ought to be payed out of the Common-Good, yet the ſeveral Inhabitants ſignified their inclination to comply moſt chearfully with their Stent for the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid Subſcription-Money (as they did) but only inſiſted, that <hi>Dovehill</hi> ſhould take the Advice of the Merchants and Trades Houſes, for laying on the ſame proportionably, and not aſ<g ref="char:EOLhyphen"/>ſume to himſelf the Priviledge of laying on a Stent Arbitrarly, without al<g ref="char:EOLhyphen"/>lowing them the freedom of inquiring into the Reaſons thereof.</p>
+            <p>I ſhall in the next place ſhew you <hi>Dovehills</hi> ſiniſtrous intreagues and il<g ref="char:EOLhyphen"/>legal Practices, as to the method of continuing himſelf and his Sett in the Magiſtracy and Council, and debarring all thoſe whom he thought not entirely in his Intereſt, not only from the Magiſtracy and Council, but alſo, as much as he could, from having any knowledge of the Town's Affairs: And indeed the matter is ſo very Scandalous, that were it not very notoriouſly known here, I ſhould hardly venture to ex<g ref="char:EOLhyphen"/>poſe
+<pb n="7" facs="tcp:175414:4"/>
+my ſelf to the hazard of not being believed in the Relation of a pra<g ref="char:EOLhyphen"/>ctice ſo very uncommon; which is as followeth.</p>
+            <p>I have already told you, that when ever any Election was to be made ſince the Beginning of <hi>Dovehill</hi>'s Adminiſtration, he always aſſumed to himſelf the Priviledge formerly enjoyed by the Arch-Biſhop, of giving in the Leits, and in thoſe Leits he never fail'd of leiſhing together one of his own Creatures, or intimate Friends, whom he reckon'd to be abſo<g ref="char:EOLhyphen"/>lutely under his Management, with ſome Perſon of no Note or Degree within the City, or otherwiſe hated by the People, or diſaffected to the Government; and after an Extraordinary Method, the Council behov<g ref="char:EOLhyphen"/>ed to chuſe by pairs, and not to have their Freedom of Electing out of the whole Leit; by which means he abſolutely ſecured the Election to his own Creature or Friend:</p>
+            <p>And that I may ſay nothing without Book, I ſhall (beſide many other Inſtances to be given) condeſcend, for Brevities ſake, only on two: The firſt is Provoſt <hi>Napier</hi> (a Creature of <hi>Dovehill</hi>'s) coupled with Pro<g ref="char:EOLhyphen"/>voſt <hi>Barns,</hi> a Perſon whom <hi>Dovehill</hi> himſelf had repreſented to the Town and Inhabitants, as a great Malverſer and Squanderer of the Common-Good, and a Scourge to the Town in the time of the late Evil-Govern<g ref="char:EOLhyphen"/>ment, being a Tool of the late Arch-Biſhop's in fining for Non-conformi<g ref="char:EOLhyphen"/>ties, and the then pretended Irregularities; By which Method he abſo<g ref="char:EOLhyphen"/>lutely ſecured his Creature <hi>Napier</hi> to be choſen. The other Inſtance is, <hi>Mathew Cumming</hi> his Truſty Friend, who attends the Council on no Occaſion, but when <hi>Dovehill</hi> calls for him for ſome Special Eminent Service or other, particularly about the time of Election; For <hi>Cumming</hi> being an Old Man, and living for the moſt part in the Countrey, is not able to attend the Council, as the Duty of a Councellor requires; yet being an old Truſty <hi>Trojan</hi> of <hi>Dovehill</hi>'s, it was thought neceſſary in or<g ref="char:EOLhyphen"/>der to get him choſen, to buckle him with <hi>William Fawſide,</hi> a Man ſhrewdly ſuſpected to be both Jacobite and Malignant.</p>
+            <p>It falls next in Courſe, That I inform you of <hi>Dovehill</hi>'s Meaſures for turning out of the Council ſuch as upon Trial, he finds not willing to run his Errands, or cloſe with his Deſigns: He Liſts the Perſon whom he intends ſhould be put out, with another Perſon, that by the Sett of the Town cannot be turned out; and this he did in particular to the fore<g ref="char:EOLhyphen"/>mentioned <hi>John Sprewl,</hi> a Perſon well deſerving not only of this City but of the Countrey in general, by Leiting him with <hi>John Leckie</hi> one of the Magiſtrates for the immediate preceeding Year, who by the Old
+<pb n="8" facs="tcp:175414:5"/>
+Sett of the Burgh behoved to continue, and could not be turned off for that Year, by which Means <hi>John Sprewl</hi> muſt of neceſſity be remov<g ref="char:EOLhyphen"/>ed, notwithſtanding he did then, and at ſeveral other times, proteſt a<g ref="char:EOLhyphen"/>gainſt ſuch groſs and palpable Encroachments upon the City's Right and Freedom of Election: And there has been ſuch a continued Courſe of ſuch Practices uſed by <hi>Dovehill,</hi> that it were a needleſs blacking of Paper to trouble you with any further inſtances of it at this time.</p>
+            <p>But as a further Swatch of his Politicks, in contriving of Handles by which he might preſerve his Reputation and Eſteem with his own Sett; when he foreſaw that at the Convention of Burghs, <hi>July</hi> 1699, a part of the Burden of the Ten pounds formerly payable by the Burghs of Barro<g ref="char:EOLhyphen"/>ny, muſt neceſſarly have been laid upon the Town of <hi>Glaſgow,</hi> he writes a Letter to <hi>James Peadie</hi> then Provoſt, in which he declares, that he was ſo unfortunate, as to be ill-look'd upon by ſeveral eminent Perſons of the Nation, and that the Town of <hi>Glaſgow</hi> having received prejudices on his Account, he therefore deſired the ſaid Provoſt to make choice of ſome other Perſon to repreſent them at the ſaid Convention, which ac<g ref="char:EOLhyphen"/>cordingly was done: Yet no ſooner was the Convention over, but he endeavoured to calumniat the Commiſſioners that were there for this Burgh, unjuſtly alledging (tho' they had done all that was in their Power to leſſen the Proportion of the ſaid ten pounds, that was intended for <hi>Claſgow</hi>) that they were the Perſons who brought Burden upon the Town: Becauſe (forſooth) 40 ſhillings of the ſaid Ten Pounds were laid on this Town for one year: And to ſupport this Allegation, he affirmed further, that they had truſted too much to Sir <hi>James Smallet,</hi> and that if he had been Commiſſioner, he would have taken ſuch Meaſures, as that no part of the ſaid ten Pounds had been laid on the Town: This was ſuch a Maſter-peice of his Cunning, as he thought would undoubt<g ref="char:EOLhyphen"/>edly Rivet him in the Good Opinion of his Old Core, and ſecure his being again choſen Provoſt at the then following Election; and there<g ref="char:EOLhyphen"/>by more firmly eſtabliſh himſelf in all the other Beneficial places he en<g ref="char:EOLhyphen"/>joys, ſuch as the being Manager of the Tack of the Cuſtomes, Conjunct Collector of <hi>Glaſgow,</hi> General Surveyor; Book Keeper to the Town, Towns Agent, and Deburſer of their Money, which many People ſtick not to ſay was the chief Butt that he aim'd at.</p>
+            <p>Having now given you this ſhort account of the Council eſtabliſh'd by <hi>Dovehill,</hi> I reckon you will need but few further Arguments to perſwade you, that the noiſe which he ſaid was made concerning the management
+<pb n="9" facs="tcp:175414:5"/>
+of the Affairs of <hi>Glaſgow,</hi> was not altogether groundleſs; and I am perſwa<g ref="char:EOLhyphen"/>ded, you are already of Opinion, that his Management in general has tended but very little to either the Peace, Credit or Intereſt of this City; and that he is not a Perſon ſo very ſelf-denyed, and regardleſs of his own intereſt, as to make a continued ſtruggle for inhancing the Magiſtracy, if he had not found his Accounts by it.</p>
+            <p>And tho the account I give of this matter, may ſeem to carry along with it a more than ordinary concern, I have reaſon to hope, that you will not be ſo uncharitable, as to think that either I, or much leſs, ſo numerous a Body of the Inhabitants, as have cry'd out againſt the foreſaid Abuſes, do it upon the account of any perſonal prejudice at <hi>Dovehill,</hi> or any other of thoſe who have been upon the Magiſtracy, during his Adminiſtration, but what we do or ſay in this matter, proceeds meerly from the ſenſe we have of our duty, to the City of <hi>Glaſgow,</hi> whereof we are Members, and from the Obligations that ly upon us by our Burges-Oaths, to endeavour the good and welfare of the Town: And beſides too, ſeveral of them ſtand in need of no Vindication, particularly Provoſt <hi>Peadie;</hi> who (I am perſwaded) has behaved himſelf very Honeſtly and Conſcientiouſly in his ſtation, as ſome others have alſo done in theirs.</p>
+            <p>But to come cloſer to the Contents of that Letter, which I am per<g ref="char:EOLhyphen"/>ſwaded, no body but <hi>Dovehill</hi> could be at the Pains to Write, or have the Effrontory to publiſh, tho in a blank Perſons Name, to Vindicate the Magiſtrates of <hi>Glaſgow</hi> (forſooth) from the Miſmanagement, which the Community of the City charges only upon himſelf, it is obſervable, that for juſtifying himſelf from what he is pleaſed in that Letter to call Calumnies (tho the People of <hi>Glaſgow</hi> finds them to be ſad Truths) he proclaims to the World, that he did expoſe his Books to the Two Houſes, and deſired that they would chuſe Six Perſons of each Houſe to conſider the Town-Accounts and management, to the end that they might re<g ref="char:EOLhyphen"/>port their Opinion to both Houſes; and that after theſe Perſons had gone through the Accounts, and made their obſerves and remarks thereon, they could not be prevail'd with to make the ſame known. By which De<g ref="char:EOLhyphen"/>claration he pretends to juſtify himſelf, and impoſe a belief upon Man<g ref="char:EOLhyphen"/>kind, that all the Noiſe made about the Management of the Town's Af<g ref="char:EOLhyphen"/>fairs, was only groundleſs Suggeſtion, Clamour and Calumny.</p>
+            <p>Yet you muſt know, that as this pretended expoſing the Books to the Members of both Houſes was but a meer ſham, there being no free inſpe<g ref="char:EOLhyphen"/>ction given of the Books (as he alledges) nor ſufficient time to make any
+<pb n="10" facs="tcp:175414:6"/>
+reaſonable Obſervations upon the Management of the Common Good, ſo neither was the ſcrimp inſpection that was made, a free offer of <hi>Dove<g ref="char:EOLhyphen"/>hill</hi>'s for his own Vindication, as he would make us believe, but meerly the effect of an Addreſs, from a great many of the Inhabitants to the Dean of Gild, deſiring that the Books might be expoſed, and which the Council (when conveen'd) did accordingly grant: But <hi>Dovehill</hi> had ſo managed the matter, that the inſpection ſo much deſired, prov'd alto<g ref="char:EOLhyphen"/>gether uſeleſs as to the Deſign for which it was intended: For altho Six were appointed by each Houſe to receive the Books, and have the free peruſal of them amongſt themſelves; yet in ſtead of that free inſpection which they ought to have had, <hi>Dovehill</hi> who by an unpreſidented Conjun<g ref="char:EOLhyphen"/>ction of two ſuch Offices was both Provoſt and Book-Keeper (for which he has a conſiderable Salary) never parted with the Books, nor allowed inſpection thereof, but in his own preſence, he pointing and il<g ref="char:EOLhyphen"/>luminating the ſeveral Poſts as he pleaſed: Neither did he allow above ſome few Hours for ſeveral days to go through the ſaid Books, and by that means, any inſpection or Survey that they had was ſo very ſuperficial, that no diſtinct Report could poſsibly be made, eſpecially conſidering that the Accounts of two full years, <hi>viz.</hi> From <hi>Michaelmaſs</hi> 1697 to <hi>Michaelmaſs</hi> 1699, are yet unrecorded: During which time many ſhrewd preſumpti<g ref="char:EOLhyphen"/>ons can be given, that there were great Fallacies and Abuſes committed: And even in the Accounts which are recorded, there are ſeveral very conſiderable Articles not inſtructed; at leaſt they muſt follow <hi>Dovehills</hi> Faith for the Disburſements of all the Writers Accounts, which tho con<g ref="char:EOLhyphen"/>ſiſting of ſeveral ſmall particulars, yet amount to a great Sum, and go under ſuch Names as the Reviſers could not pretend to contravert, unleſs they had ſome Writers or Agents to Aſſiſt them, many Disburſements be<g ref="char:EOLhyphen"/>ing Charged at ſeveral times for Doubles and adjuſting of Minutes to the Lords Men, Clerks, Macers, <hi>&amp;c.</hi> and ſeveral other Articles of that kind, which at leaſt ought to have been atteſted by the Towns Agent, to whom they pay a yearly Sallary; and beſides it was not unknown to ſome of them, who were appointed to review theſe Accounts, that <hi>Dove<g ref="char:EOLhyphen"/>hill</hi> had ſeveral Law-Pleas of his own, which went on at the ſame time, and that poſſibly one payment might have ſerved for both: All which conſiderations were in my humble opinion ſufficient Reaſons to diſwade any diſcreet Men from venturing to expoſe their own Reputations, by giv<g ref="char:EOLunhyphen"/>ing in a Report under their hands in a matter of which they could not poſſibly have any diſtinct view.</p>
+            <p>
+               <pb n="11" facs="tcp:175414:6"/>As to the particular Account which <hi>Dovehill</hi> gives of the Town's Debts, and the ſeveral payments by which he pretends to have reduced them by his painful management, you cannot well expect any par<g ref="char:EOLhyphen"/>ticular Information from me concerning the ſame, untill I have better Authority to direct my reaſon, and ground my belief upon, than any thing contained in that Printed Letter; for <hi>Dovehill</hi> being Book-Keeper as well as Provoſt might eaſily make a Charge and Diſcharge as he plea<g ref="char:EOLhyphen"/>ſed: But had he given, as was deſired, full and free inſpection of his Books to my Informers, 'twere an eaſy matter to confute his ſaid pretended and ſham Account, &amp; demonſtrate that it was calculated only for a new Trick to impoſe upon the People, &amp; perſwade them that their Affairs are in good order, when in the mean time they are (I am very much afrayed) going to Wreck and Ruin.</p>
+            <p>And therefore, (tho' for the reaſons aforeſaid a particular Anſwer can<g ref="char:EOLhyphen"/>not at preſent be given to an Account, thus clandeſtinely patched up by <hi>Dovehill</hi> and his Agents, with deſign to ſurprize and amuſe the People therewith) yet to obviate the fallaciousneſs and diſingenuity thereof, and to ſhew to the World that many conſiderable Sums have been exacted &amp; intrometted with by <hi>Dovehill</hi> over and above the Town's ordinary Reve<g ref="char:EOLhyphen"/>nue and Common-Good, I have hereunto ſubjoyn'd ſome noted parti<g ref="char:EOLhyphen"/>culars amounting to the Sum of 126700 <hi>lib.,</hi> which are moſt diſingenu<g ref="char:EOLhyphen"/>ouſly ſuppreſs'd, or at leaſt omitted in <hi>Dovehill</hi>'s Printed Accompt.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>lib.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ſs.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Exacted from the Inhabitants under the Name of King's Ceſs, <hi>&amp;c.</hi> more than warranted by Act of Parliament, about</cell>
+                     <cell>36700</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Gained upon the Tack of the Exciſe of the Five Shires.</cell>
+                     <cell>16000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Uplifted of Seat-Mails before there was one word of building the <hi>Blackfryar</hi> Church, about</cell>
+                     <cell>08000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Received from the Inhabitants for private and publick Malt before the Revolution, about</cell>
+                     <cell>06000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Received of the 2 <hi>
+                           <abbr>d.</abbr> per</hi> Pint of Ale to this Year.</cell>
+                     <cell>60000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>126700</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:175414:7"/>And this beſide the whole Revenue of the Town of <hi>Glaſgow, viz.</hi> Milns, Ladles, Pecks, Greens, Trone, Bridge, Broomy-Law; Port <hi>Glaſ<g ref="char:EOLhyphen"/>gow,</hi> Drawen-Teinds about the Town. Teinds of the <hi>Gorbals,</hi> Fleſh-Market, Land Market, the Rent of the Sixteen Mark-Land, Feu-Du<g ref="char:EOLhyphen"/>ties and Teinds of the Barony.</p>
+            <p>By all which it's evident to the meaneſt Capacity, that <hi>Dovehills</hi> Vin<g ref="char:EOLhyphen"/>dication is but a further ſtep of his impoſing upon and deluding the Peo<g ref="char:EOLhyphen"/>ple, with deſign to lull them aſleep and keep them as much as he can in groſs ignorance of the Town's Affairs.</p>
+            <p>And as a further evidence of his Siniſtrous deſign by the ſaid Account, you may obſerve a moſt ſhameleſs Peice of Partiality in that ſham vindica<g ref="char:EOLhyphen"/>tion of himſelf and the Magiſtrates; for he thereby makes all the pay<g ref="char:EOLhyphen"/>ments of the Town's Debts to be made during the time of his own Pro<g ref="char:EOLhyphen"/>voſtſhip; but in Provoſt <hi>Peadie</hi> and Provoſt <hi>Napier's</hi> time (who are known to be very honeſt Men) no Debts were payed; which is a groſs and grievous Reflection upon the Reputation of honeſt Men; eſpecially conſi<g ref="char:EOLhyphen"/>dering, it is very well known that, tho <hi>Dovehill</hi> was not always in the Provoſt's Chair, yet he had ſtill the aſcendant over it ſo far as to have the management of the Council who were all of his own chooſing: For Proof whereof my informers do declare, that they knew ſeveral Sums that ought to have been applyed to the payment of Debt in Provoſt <hi>Peadie</hi> and Pro<g ref="char:EOLhyphen"/>voſt <hi>Napier</hi>'s time, prepoſterouſly applyed for payment of Debt in <hi>Dovehill</hi>'s time, particularly 1100 <hi>lib.</hi> pay'd by <hi>George Murehead</hi> late Treaſurer for defraying of Debt in <hi>Dovehills</hi> time, which ſhould have been payed in <hi>Peadies</hi> time: And ſeveral inſtances can be given of the like Practices overall the Accounts.</p>
+            <p>And it is very remarkable, that how favourable ſoever the Letter is to <hi>Dovehill,</hi> in all its parts, yet the Writer thereof has omitted Seven Thou<g ref="char:EOLhyphen"/>ſand Merks of Expenſes, that the Town of <hi>Glaſgow</hi> was at, in defending the Slaughter of Major <hi>Meinzies;</hi> which being ſo conſiderable a Sum, I know not how it could have eſcaped <hi>Dove-hill</hi>'s Memory, upon peruſal of his Books; but I rather begin to have Charity for him in believing that being aſhamed thereof, he has willfully omitted it; as being not on<g ref="char:EOLhyphen"/>ly extravagant, but an Article too that he knows might have been eaſily prevented by taking the ſaid Major alive, and bringing him to a fair Trial, when he was ſurrounded by <hi>Dovehill</hi> and ſuch a Number of the Inhabitants, as muſt needs have made his eſcape impoſſible; which is well known to the whole Inhabitants of this place.</p>
+            <p>
+               <pb n="13" facs="tcp:175414:7"/>Now that I have done Juſtice to <hi>Dovehill,</hi> in minding him of what he has neglected to ſtate in his own Diſcharge, he can the leſs blame me, for having, in Juſtice to the Community, of which I am a Member, men<g ref="char:EOLhyphen"/>tion'd thoſe Particulars which he has wilfully conceal'd in his Letter, and ought to be put to his Charge: Which, together with the many unneceſ<g ref="char:EOLhyphen"/>ſary Pleas, in which he has involved the Town, amount to a great Sum, and can eaſily be made appear, if he could be prevailed with, to allow the Inhabitants to inſpect his Books more narrowly, and make their Re<g ref="char:EOLhyphen"/>marks with greater Deliberation, than thoſe Pleas were engaged in.</p>
+            <p>As to the Concluſion of his Accounts, by which he aſſerts, that there is 50326 Pounds 5 Shillings paid of clear Debt, my Informers ſeem'd to be very glad, if they could be certified, that the Town of <hi>Glaſgow</hi>'s Debts are ſo much leſſen'd, ſince <hi>Dovehill</hi>'s entering into the Magiſtracy; but are unwilling to believe it, till the two Years outſtanding Accounts be Re<g ref="char:EOLhyphen"/>corded, and come to Light: For until that be done, and a fair, full and free Inſpection given of his Books, and a true Charge made againſt him, (which is noways done in the foreſaid Letter and printed Account, as ap<g ref="char:EOLhyphen"/>pears by what is above ſaid) there can be no juſt or particular View gi<g ref="char:EOLhyphen"/>ven of that Matter: And the Inhabitants are deeply afraid, that inſtead of finding the Town's Debts leſſen'd, in the Sum which he pretends, that they will find the Common-Good reduced to ſuch a Paſs, as that in a little time it will not be able to bear its own Weight, if it fall not ſpeedi<g ref="char:EOLhyphen"/>ly into better hands. Nor is this the Caſe of the Common-Good only, but even the Inhabitants themſelves, by the extraordinary Burdens laid on them, are become ſo unable, that many of them have already left the Town, and given up their Burgeſs-Tickets, to be free of the Stents and Burdens; and many others are like to follow their Example: So that <hi>Dove-hill</hi>'s Management may come to empty the Town of Trading Merchants, as well as he has purged the Council of ſuch as cannot be devoted to his Intereſt, unleſs a ſpeedy Remedy be found: Nor is it to be ſuppoſed, that it was upon the Account of Publick Works, that the Inhabitants have been thus heavily Stented: For the Expenſe of theſe are much more than compenſed, by the extraordinary Incomes and Profits, of which <hi>Dovehill</hi> has made no manner of Account.</p>
+            <p>But leſt this my long Letter may weary your Patience, tho' I have ſeveral other things to add on this Subject, I ſhall conclude at preſent with this one Obſerve: The Writer of that printed Letter which you ſent me, ſays, That the Magiſtrates bear as heavy a part of the Stents as any others, and ſome of them more than any in the Town: But becauſe I am ſure, that the Inhabitants know very well that Aſſertion to be impudent and falſe,
+<pb n="14" facs="tcp:175414:8"/>
+I ſhall only tell you, that if <hi>Dovehill</hi> has been Stented for any Trade that he has had theſe Twelve Years paſt as a Merchant, they have done him very much Injuſtice; for my Informers aſſure me, that they never knew of any Trade that he has had in all that time, except the Provoſt-Trade; which now, it ſeems, they incline to believe to be a better Trade than they thought of: Eſpecially when they conſider what Induſtry &amp; Art he uſes, to keep himſelf in that Station; what his Circumſtances were when he enter'd into it what they are now; and how that by that Trade only, he has paid off ſo much of his own proper Debts: For they are perſwaded, that the Four Pounds a Day which he gets, when Abroad on the Town's Af<g ref="char:EOLhyphen"/>fairs, and the Three Hundred Pounds he gets as being Book-Keeper, could never effectuat ſuch things.</p>
+            <p>
+               <hi>Sir,</hi> Tho' your Importunity has expiſcated all this from me, I ſhould not wiſh, that it were expoſed to any, who would improve it to the rai<g ref="char:EOLhyphen"/>ſing of Diſcord: And tho the Author of that Letter has thought fit to leave a blank for his Name, for Reaſons beſt known to himſelf, ſince we can only gueſs at them; yet I could have no Scruple in Citing my Informers Names, were it not they aſſured me, that if their Names were known, they might expect no leſs than Military Execution, by exorbitant Quarte<g ref="char:EOLhyphen"/>ring of Souldiers upon them: For that is the common Uſage of the People of <hi>Glaſgow,</hi> if they ſeem to quarrel any thing that <hi>Dovehill</hi> thinks fit to be done; his ordinary is, to ſend Two Souldiers to Quarter on each of them, tho' often, the Houſes which they are ſent to, cannot well accommodat the People themſelves: So that it is all one, whether there be Two Com<g ref="char:EOLhyphen"/>panies, or Two Regiments in Town; for the Locality is ſtill exacted of thoſe, whom he thinks Diſ-affected to him, whether there be any Shadow of Reaſon for it or not.</p>
+            <p>If this Account can give you any Satisfaction, I have my chief end by it, next to that of endeavouring to obviat and expoſe thoſe Meaſures, which I think ſo prejudicial to the Intereſt and Welfare of this City, whoſe Good, you know, I am in Duty bound to advance, as much as in me lies: And if I fail in the Performance, I hope you'l in Charity rather impute it to my Ignorance, than to the Want of a Hearty Inclination in</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Real Friend, and Humble Sarvant, J. B.</signed>
+               <dateline>
+                  <hi>Glaſgow,</hi> 
+                  <date>17th. <hi>July,</hi> 1700.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="15" facs="tcp:175414:8"/>
+            <head>Poſtſcript.</head>
+            <p>AFter I had conſidered this tedious Letter, I cannot forbear giv<g ref="char:EOLhyphen"/>ing you further aſſurance, that the ſeveral matters of Fact therein contain'd are truly and juſtly related, to the beſt of my Me<g ref="char:EOLhyphen"/>mory, and according to the trueſt Information that I could procure.</p>
+            <p>But upon ſecond thoughts, my Memory does not ſerve me exact<g ref="char:EOLhyphen"/>ly whether <hi>William Fawſide</hi> mention'd Page 7 was coupled with <hi>Matthew Cumming</hi> or <hi>Dovehill's</hi> other beloved Creature <hi>Gavin Wood;</hi> but that he was leited with one of them, I am poſitive: And that <hi>George Graham, James Robertſon</hi> and <hi>John Gardiner</hi> (whoſe Characters are well known to the Inhabitants) were likewiſe ſeverally Leited with other Truſty Friends of <hi>Dovehill</hi>'s.</p>
+            <div type="part">
+               <head>And for the further Verification of what I have Writ<g ref="char:EOLhyphen"/>ten concerning the Election of our Magiſtrates, I have hereunto Subjoyn'd a true Copy of the Act of Parliament in favours of the Town of <hi>Glaſgow.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>June 14th. <hi>1690.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>OUR SOVERAIGN LORD and LADY, taking to Their Conſideration, that the City of <hi>Glaſgow</hi> is amongſt the moſt conſiderable of the Royal Burrows within Their Ancient Kingdom of <hi>Scotland,</hi> both for the number of Inhabitants, and their ſingular fitneſs and application to Trade, and the convenient Situation of the Place, upon the River of <hi>Clyde;</hi> And that the Common-Good of the ſaid City hath been greatly waſted and exhauſted, by draining vaſt Sums of Money from Magiſtrates, who were not freely Elected and Choſen, as is uſual in other Royal Burrows: And likeways conſidering the firm Adherence, and con<g ref="char:EOLhyphen"/>ſtant Zeal for the Proteſtant Religion, of the Community of the ſaid City, Their Majeſties did grant a full and ample Charter, in favours of the ſaid City of <hi>Glaſgow,</hi> and the Common Council thereof, con<g ref="char:EOLhyphen"/>firming
+<pb n="16" facs="tcp:175414:9"/>
+all former Charters granted to them by any of Their Royal Predeceſſors, in favours of the Community of the ſaid City, or Gild-Brethren, Tradeſmen, or any Society or Deaconry within the ſame; and alſo of new Granting and Diſponing to the ſaid City, and com<g ref="char:EOLhyphen"/>mon Council thereof, a full and ample Power, Right and Faculty of Electing their Provoſt, Baillies, and other Magiſtrats, at the ordinary time of Election, as freely as any other Royal Burgh might do with<g ref="char:EOLhyphen"/>in Their ſaid Ancient Kingdom, promiſing to confirm the foreſaid Charter in the next Parliament. Therefore Their Majeſties, with Advice and Conſent of the Eſtates of Parliament, do Statute, Enact and Ordain, that the City of <hi>Glaſgow,</hi> and Town-Council thereof, ſhall have Power and Priviledge to chooſe their own Magiſtrats, Provoſts, Baillies, and other Officers within Burgh, as fully, and as freely in all reſpects, as the City of <hi>Edinburgh,</hi> or any other Roy<g ref="char:EOLhyphen"/>al Burgh within the Kingdom enjoys the ſame; Beginning the firſt Election at <hi>Michaelmaſs</hi> next, and ſo furth yearly in time-coming. And further, Their Majeſties, with Conſent foreſaid, do Ratifie, Confirm, and Approve the foreſaid Charter granted by them in fa<g ref="char:EOLhyphen"/>vours of the Community, and Common Council of <hi>Glaſgow,</hi> of the date the fourth day of <hi>January</hi> 1690, in the whole Heads, Articles, and Clauſes thereof, as fully and amply, as if the ſame were word by word herein Ingroſſed; Whereanent Their Majeſties, with Con<g ref="char:EOLhyphen"/>ſent foreſaid, do hereby Diſpenſe for now and ever. It is always here<g ref="char:EOLhyphen"/>by expreſly provided and declared, that this preſent Act ſhall be with<g ref="char:EOLhyphen"/>out prejudice or derogation to Their Majeſties, of Their Rights to the Regality of <hi>Glaſgow,</hi> or other Rights, except as to the Power and Freedom of the Burgh of <hi>Glaſgow,</hi> in relation to the chooſing of their own Magiſtrats, and the ſeveral Erections of Incorporations and Deaconries in that Burgh.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175414:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
